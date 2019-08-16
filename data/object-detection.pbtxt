@@ -1,0 +1,16 @@
+item {
+    id: 1
+    name:'EOSINOPHIL'
+}
+item {
+    id: 2
+    name:'LYMPHOCYTE'
+}
+item {
+    id: 3
+    name:'MONOCYTE'
+}
+item {
+    id: 4
+    name:'NEUTROPHIL'
+}
