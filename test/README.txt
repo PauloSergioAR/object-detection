@@ -1,0 +1,1 @@
+ - The object_detection_tutorial.ipynb and helper files on this folder (except for the "test_images" and "model" directories) are from tensorflow's object detection api, available at https://github.com/tensorflow/models 
